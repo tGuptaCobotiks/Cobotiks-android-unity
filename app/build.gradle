@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace 'com.example.cube5integ'
+    namespace 'com.cobotiks.cube5integ'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.cube5integ"
+        applicationId "com.cobotiks.cube5integ"
         minSdk 33
         targetSdk 33
-        versionCode 1
-        versionName "1.0"
+        versionCode 4
+        versionName ".0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
